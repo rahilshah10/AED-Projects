@@ -1,0 +1,16 @@
+
+login:
+
+apha/apha
+
+rest/rest: rpurchase/rpurchase(done)
+
+mark/mark:madmin/madmin,mpurchase/mpurchase(done)
+
+pc/pc:pcsales/pcsales,pcstorage/pcstorage(done),pcpurchase/pcpurchase(done),pcpro/pcpro(done)
+
+
+pd/pd:pdsales/pdsales(done),pdpro/pdpro(done),pdster/pdster(done)
+
+
+
